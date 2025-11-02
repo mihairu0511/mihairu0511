@@ -7,4 +7,4 @@
 [LinkedIn](https://linkedin.com/in/mikhail-titov)
 
 ## 🌐 Portfolio
-Check out my website → [mihairu0511.github.io](https://mihairu.com)
+[![Visit Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-007ACC?style=for-the-badge)](https://mihairu.com)
